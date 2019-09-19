@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloHumber</string>
+    <string name="Hello">Hello Humber</string>
+    <string name="message2">First App Run from System Out</string>
+    <string name="message1">First App Run</string>
+    <string name="reset">Reset</string>
+</resources>

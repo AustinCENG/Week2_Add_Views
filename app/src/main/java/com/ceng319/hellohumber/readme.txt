@@ -1,0 +1,1 @@
+This is the example to show how to add the views dynamically to the layout in Activity code.
