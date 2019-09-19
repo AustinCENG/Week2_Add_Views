@@ -4,4 +4,6 @@
     <string name="message2">First App Run from System Out</string>
     <string name="message1">First App Run</string>
     <string name="reset">Reset</string>
+    <string name="resetEnglish">Reset</string>
+    <string name="message">This is a reset test</string>
 </resources>
